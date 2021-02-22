@@ -4,5 +4,7 @@
 - 🔭 I’m currently working on my repositories 
 - 🌱 I’m currently learning node.js and git
 - 📫 How to reach me: email:mehan.alavi.majd88@gmail.com 
-![github stats](https://github-readme-stats.vercel.app/api?username=mehanalavimajd&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehanalavimajd&theme=tokyonight&layout=compact&hide_title=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=mehanalavimajd&show_icons=true&include_all_commits=true&theme=dark&cache_seconds=3200) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehanalavimajd&theme=dark&layout=compact&hide_title=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehanalavimajd&theme=dark&background=0D1117)]()
+
