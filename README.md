@@ -16,7 +16,7 @@ email: mehan.alavi.88.majd@gmail.com
 ## Accounts
 dev.to: https://dev.to/mehanalavimajd
 
-virgool.io : https://virgool.io/@mehan.alavi.88.majd
+virgool.io : https://virgool.io/@mehan
 
 stackoverflow.com: https://stackoverflow.com/users/16327154/mehan-alavi
 
